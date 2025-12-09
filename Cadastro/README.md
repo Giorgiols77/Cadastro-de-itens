@@ -29,6 +29,8 @@ Sim.
 O botão Adicionar insere corretamente dados na tabela?
 
 Sim.
+
 Há alguma validação básica (evitar linhas com campos vazios ou em
 formato inválido)?
+
 Sim.
