@@ -9,6 +9,7 @@ Ele faz cadastrar item com nome, categoria e outro dado, mas pode remover, concl
 A página tem título, formulário e tabela bem organizados?
 
 Sim.
+
 Os campos e colunas combinam com o tema escolhido?
 
 Sim.
